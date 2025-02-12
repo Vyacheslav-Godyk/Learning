@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="226a2447-2f43-4e6b-8535-9b1996f6d8df" name="Changes" comment="1" />
+    <list default="true" id="226a2447-2f43-4e6b-8535-9b1996f6d8df" name="Changes" comment="Creat">
+      <change beforePath="$PROJECT_DIR$/JS/Lesson 1" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Lesson 1" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +61,7 @@
       <workItem from="1739262598605" duration="1042000" />
       <workItem from="1739263667820" duration="396000" />
       <workItem from="1739264079618" duration="143000" />
-      <workItem from="1739264234567" duration="2808000" />
+      <workItem from="1739264234567" duration="3166000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -69,7 +71,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739262547917</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creat">
+      <option name="closed" value="true" />
+      <created>1739366490254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739366490254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +102,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Creat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creat" />
   </component>
 </project>
