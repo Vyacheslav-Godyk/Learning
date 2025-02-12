@@ -5,27 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="226a2447-2f43-4e6b-8535-9b1996f6d8df" name="Changes" comment="Creat">
-      <change beforePath="$PROJECT_DIR$/JS/Lesson 1" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Lesson 1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Vyacheslav-Godyk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Vyacheslav-Godyk/Learning.git",
+    "accountId": "10a2c041-8d0c-48c4-9f64-bebeb4888216"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2st6SLIprkflPxrjcxCL3H4bzNe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -61,7 +83,7 @@
       <workItem from="1739262598605" duration="1042000" />
       <workItem from="1739263667820" duration="396000" />
       <workItem from="1739264079618" duration="143000" />
-      <workItem from="1739264234567" duration="3166000" />
+      <workItem from="1739264234567" duration="3693000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -79,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739366490254</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creat">
+      <option name="closed" value="true" />
+      <created>1739366568721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739366568721</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
