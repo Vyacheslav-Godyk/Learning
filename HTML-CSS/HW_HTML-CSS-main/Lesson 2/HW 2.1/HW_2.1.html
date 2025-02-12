@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tsukimi+Rounded&display=swap" rel="stylesheet">
+  <style>
+      hr {
+          border: none; /* Убираем стандартную границу */
+          border-top: 1px solid lightgrey; /* Устанавливаем стиль линии */
+          margin: 20px auto; /* Добавляем отступы сверху и снизу, центрируем */
+          width: 100%; /* Устанавливаем ширину полоски */
+      }
+
+      *{
+          margin: 0;
+          padding: 0;
+      }
+
+      .barrio-regular {
+          font-family: "Tsukimi Rounded", serif;
+          font-weight: 400;
+          font-style: normal;
+      }
+
+      p{
+          text-align: center;
+      }
+      h1{
+          text-align: center;
+
+      }
+    img{
+        max-width: 90%; /* Изображение занимает максимум 90% ширины карточки */
+        max-height: 80%; /* Изображение занимает максимум 80% высоты карточки */
+        object-fit: contain; /* Вписывает изображение в рамки, сохраняя пропорции */
+        margin: auto; /* Центрирует изображение в карточке */
+      width: 350px;
+      height:250px;
+
+
+    }
+    .wrapper{
+        padding-top: 30px;
+        display: flex;
+        gap: 15px 100px;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .item{
+        width: 160px;
+        height: 190px;
+        margin: 5px;
+        border-radius: 30px;
+        border: 2px solid gray;
+        padding: 5px 5px 15px 15px;
+        padding-top: 0px;
+
+    }
+  </style>
+</head>
+<body>
+<h1 class="barrio-regular">What do i have in my fridge ?</h1>
+<div class="wrapper">
+
+  <div class="item">
+      <img src="IMG/pepper.png" alt="Pepper">
+      <p>Pepper</p>
+  </div>
+
+  <div class="item">
+      <img src="IMG/apple.jpg" alt="Apple">
+      <p>Apple</p> 
+  </div>
+
+  <div class="item">
+      <img src="IMG/cheese.png" alt="Cheese">
+      <p>Cheese</p> 
+  </div>
+
+  <div class="item">
+      <img src="IMG/corn.jpg" alt="Corn">
+      <p>Corn</p>
+  </div>
+
+  <div class="item">
+      <img src="IMG/mushroom.png" alt="Mushroom">
+      <p>Mushroom</p> 
+  </div>
+
+<div class="item">
+    <img src="IMG/Garlic.jpg" alt="Garlic">
+    <p>Garlic</p> 
+</div>
+
+<div class="item">
+    <img src="IMG/Beef.png" alt="Beef">
+    <p>Beef</p> 
+</div> 
+
+<div class="item">
+    <img src="IMG/fish.jpg" alt="Fish">
+    <p>Fish</p> 
+</div>
+
+<div class="item">
+    <img src="IMG/eggs.png" alt="Eggs">
+    <p>Eggs</p>
+</div>
+
+<div class="item">
+    <img src="IMG/coriander.png" alt="Coriander">
+    <p>Coriander</p>
+</div>
+</div>
+    <hr>
+<p>
+    ...that's all...
+</p>
+</body>
+</html>

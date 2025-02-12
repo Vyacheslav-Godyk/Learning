@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 20vh;
+    background: #8D8484;
+}
+main{
+    display: flex;
+}
+section{
+    height: 20vh;
+    width: 73vw;
+}
+footer{
+    height: 20vh;
+    background: #BDBDBD;
+}
+
+.main__contents-content-1{
+    background: #776969;
+}
+.main__contents-content-2{
+    background: #643030;
+}
+.main__contents-content-3{
+    background: #441818;
+}
+aside{
+    height: 30vh;
+    width: 27vw;
+}
+.main__spam1{
+    background: #937575;
+}
+.main__spam2{
+    background: #644C4C;
+}
+header, section, aside, footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: white;
+}
+
+header p{
+    color: black;
+}
+
+footer p{
+    color:black;
+}

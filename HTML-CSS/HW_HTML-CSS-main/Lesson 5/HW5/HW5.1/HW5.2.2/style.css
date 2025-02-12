@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("img/imag.jpg");
+    background-size: cover;
+    animation: AnimationSky 30s linear infinite;
+    overflow: hidden;
+}
+@keyframes AnimationSky {
+    0% {
+        /*background-position: 0 0, 100% 0;*/
+    }
+    100% {
+        background-position: -1000px 0, 0 0;
+    }
+}
+
+.img{
+    width: 60vw;
+    height: 100vh;
+}
+.animation{
+    width: 10vw;
+    height: 30vh;
+    position: absolute;
+    animation: FlyAirShip 25s linear infinite;
+}
+@keyframes FlyAirShip {
+    0%{
+        left: -60vw;
+    }
+    100%{
+        left: 100%;
+    }
+}
