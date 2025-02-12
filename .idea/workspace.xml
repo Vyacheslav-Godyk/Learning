@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="226a2447-2f43-4e6b-8535-9b1996f6d8df" name="Changes" comment="Creat JS">
-      <change beforePath="$PROJECT_DIR$/JS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,7 @@
       <workItem from="1739262598605" duration="1042000" />
       <workItem from="1739263667820" duration="396000" />
       <workItem from="1739264079618" duration="143000" />
-      <workItem from="1739264234567" duration="5553000" />
+      <workItem from="1739264234567" duration="7118000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739367141089</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Creat JS">
+      <option name="closed" value="true" />
+      <created>1739370918615</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739370918615</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
